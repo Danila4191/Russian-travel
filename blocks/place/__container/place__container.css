@@ -1,0 +1,10 @@
+.place__container {
+  max-width: 484px;
+}
+@media (max-width: 767px) {
+  .place__container {
+    padding-left: 16px;
+    padding-right: 16px;
+    margin: 0 auto;
+  }
+}

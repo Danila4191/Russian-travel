@@ -1,0 +1,20 @@
+.cover__overplay {
+  color: #ffffff;
+  display: flex;
+  background-color: rgba(42, 44, 47, 0.3);
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  width: 100%;
+  position: relative;
+}
+.cover__overplay:hover::before {
+  content: "";
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  position: absolute;
+  background-color: rgba(42, 44, 47, 0.8);
+  transition: 1s ease-out;
+}
