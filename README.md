@@ -21,6 +21,7 @@
 * GRID
 * Медиазапросы
 * keyframes
+* Адаптивная верстка
 
 **Github pages**
 
