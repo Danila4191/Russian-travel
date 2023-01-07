@@ -23,4 +23,4 @@
 
 **Github pages**
 
-* [Ссылка страницу сайта](https://danila4191.github.io/russian-travel/)
+* [Ссылка страницу сайта](https://danila4191.github.io/Russian-travel/)
