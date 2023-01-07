@@ -20,6 +20,7 @@
 * Flexbox
 * GRID
 * Медиазапросы
+* keyframes
 
 **Github pages**
 
